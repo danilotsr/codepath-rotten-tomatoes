@@ -26,7 +26,7 @@ Time spent: `8 hours`
 - [ ] Customize the navigation bar.
 
 ### Walkthrough
-![Video Walkthrough](TODO)
+![Video Walkthrough](rotten-tomatoes.gif)
 
 Credits
 ---------
